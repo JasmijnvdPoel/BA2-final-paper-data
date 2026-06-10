@@ -1,5 +1,5 @@
 # BA2-final-paper-data
-final paper data 
+## final paper data 
 Project description, RQ, headline finding, instructions to reproduce
 Prject description 
 This project uses Latent Direchlet Allocation (LDA) topic modelling to analyse a corpus of 615 Korean poems from five poets who lived during the Japanese colonial period. The goal is to identify recurring themes and determine whether computional text analysis can distinguish differences in thematic focus between poets. The poems were preproccessed by tokenishing the Korean text, retaining the nouns, removing stopwords and filtering rare and overly common terms before applying LDA topic modeling. 
