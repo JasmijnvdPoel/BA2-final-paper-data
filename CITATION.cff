@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Van der Poel
+  given-names: Jasmijn
+
+title: "BA2-final-paper-data"
+version: 1.0.0
+date-released: 2026-06-10
+url: "https://github.com/JasmijnvdPoel/BA2-final-paper-data"
